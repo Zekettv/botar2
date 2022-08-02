@@ -20,5 +20,5 @@ bot.add_cog(music_cog(bot))
 
 
 
-bot.run("MTAwMzA4Njk4MjYzOTAwOTgyMg.GhoaoF.Wjp_ypjGRfucMyt41dkFQzNxVNvpvPDiqrzBCc")
+bot.run("MTAwMzA4Njk4MjYzOTAwOTgyMg.G6v4lR.dQlXCixNZUiPQe8nGmwn1jI9ReDuWeEuzxPslQ")
 #bot.run(os.getenv("TOKEN"))
